@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 327fc7c719cf1490a8f7585edd3371d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2765634102377063696
+    second: Retro_Weapons_0
+  - first:
+      213: 5953134407502589399
+    second: Retro_Weapons_1
+  - first:
+      213: -3287967863667160433
+    second: Retro_Weapons_2
+  - first:
+      213: -8085301719995356803
+    second: Retro_Weapons_3
+  - first:
+      213: -5223117433315181969
+    second: Retro_Weapons_4
+  - first:
+      213: 7354313025905973429
+    second: Retro_Weapons_5
+  - first:
+      213: -9096548141051382211
+    second: Retro_Weapons_6
+  - first:
+      213: -8741583954401000775
+    second: Retro_Weapons_7
+  - first:
+      213: 1338378971193077694
+    second: Retro_Weapons_8
+  - first:
+      213: -1656900520541594083
+    second: Retro_Weapons_9
+  - first:
+      213: -7724544674543346668
+    second: Retro_Weapons_10
+  - first:
+      213: 2414390110870788535
+    second: Retro_Weapons_11
+  - first:
+      213: -8793546819004582724
+    second: Retro_Weapons_12
+  - first:
+      213: 2695249794087733530
+    second: Retro_Weapons_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Retro_Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 966
+        width: 586
+        height: 386
+      alignment: 9
+      pivot: {x: 0.81729, y: 0.3375026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadb15df6e7e99d0800000000000000
+      internalID: -2765634102377063696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1212
+        width: 250
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09430461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde85bd338cd9250800000000000000
+      internalID: 5953134407502589399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1212
+        width: 249
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.06784658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a083df5aace52d0800000000000000
+      internalID: -3287967863667160433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 555
+        width: 212
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7962d56cec3bcf80800000000000000
+      internalID: -8085301719995356803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 555
+        width: 212
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a391f1e52c387b0800000000000000
+      internalID: -5223117433315181969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 829
+        width: 148
+        height: 244
+      alignment: 9
+      pivot: {x: 0.0761892, y: 0.09603982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b857247bb4cf0660800000000000000
+      internalID: 7354313025905973429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 822
+        width: 249
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5089969, y: 0.078325815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36746a49a192c180800000000000000
+      internalID: -9096548141051382211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 645
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28ca755b7afa680800000000000000
+      internalID: -8741583954401000775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 312
+        width: 40
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe0d05590e29210800000000000000
+      internalID: 1338378971193077694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 403
+        width: 317
+        height: 356
+      alignment: 9
+      pivot: {x: 0.04066443, y: 0.040644698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e55f451c18109e0800000000000000
+      internalID: -1656900520541594083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 597
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c553e7b87ecc490800000000000000
+      internalID: -7724544674543346668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 525
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b95bab8303a18120800000000000000
+      internalID: 2414390110870788535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 79
+        width: 525
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4377122cb07f580800000000000000
+      internalID: -8793546819004582724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 84
+        width: 293
+        height: 152
+      alignment: 9
+      pivot: {x: 0.025976812, y: 0.426311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a194b8d5863776520800000000000000
+      internalID: 2695249794087733530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
